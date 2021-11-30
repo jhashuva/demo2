@@ -1,6 +1,6 @@
 //Source file: E:\\bhavya\\Journals.java
 
-
+//fgfxdgfcg
 public class Journals extends BOOKS 
 {
    private int volume;
